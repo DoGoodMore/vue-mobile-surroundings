@@ -1,0 +1,65 @@
+/**
+ *  官方
+ * @type {string}
+ */
+export const SET_LOTTERY_ID = 'SET_LOTTERY_ID'
+
+export const SET_LOTTERY_CODE = 'SET_LOTTERY_CODE'
+
+export const SET_LOTTERY_NAME = 'SET_LOTTERY_NAME'
+
+export const SET_LOTTERY_GROUP_ID = 'SET_LOTTERY_GROUP_ID'
+
+export const SET_LOTTERY_GROUP_CODE = 'SET_LOTTERY_GROUP_CODE'
+
+export const SET_LOTTERY_RULE = 'SET_LOTTERY_RULE'
+
+export const SET_BETS_DIALOG_VISIBLE = 'SET_BETS_DIALOG_VISIBLE'
+
+export const SET_LOTTERY_NEX_ISSUE = 'SET_LOTTERY_NEX_ISSUE'
+
+export const TOGGLE_USER_MENU_LIST_SHOW = 'TOGGLE_USER_MENU_LIST_SHOW'
+
+export const CHANGE_GAME_COLLECTION = 'CHANGE_GAME_COLLECTION'
+
+export const SET_STOP_BET = 'SET_STOP_BET'
+
+export const SET_TIMER_TIME = 'SET_TIMER_TIME'
+
+export const SET_PRE_ISSUE = 'SET_PRE_ISSUE'
+
+export const SET_NEXT_ISSUE = 'SET_NEXT_ISSUE'
+
+export const SET_STOP_SELL = 'SET_STOP_SELL'
+
+/**
+ *  用户
+ * @type {string}
+ */
+export const SET_USER_ACCOUNT = 'SET_USER_ACCOUNT'
+
+export const SET_USER_AMOUNT = 'SET_USER_AMOUNT'
+
+export const SET_USER_ID = 'SET_USER_ID'
+
+export const SET_USER_PROXY_ID = 'SET_USER_PROXY_ID'
+
+export const SET_USER_MENU_LIST = 'SET_USER_MENU_LIST'
+
+export const SET_USER_GAME_LIST_INDEX = 'SET_USER_GAME_LIST_INDEX'
+
+export const SET_BET_DATA = 'SET_BET_DATA'
+
+export const SET_BET_DATA_AMOUNT = 'SET_BET_DATA_AMOUNT'
+
+export const SET_BET_DATA_IDS = 'SET_BET_DATA_IDS'
+
+/**
+ *  通用
+ * @type {string}
+ */
+export const SET_HEADER_TITLE = 'SET_HEADER_TITLE'
+
+export const UPDATE_LIKE_LIST = 'UPDATE_LIKE_LIST' // 更新收藏列表
+
+export const TOGGLE_CHART_CONFIG_VISIBLE = 'TOGGLE_CHART_CONFIG_VISIBLE'
